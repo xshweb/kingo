@@ -1,0 +1,14 @@
+{
+  "name": "kingo",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "urllib": "~0.5.0",
+    "iconv-lite": "~0.2.0",
+    "cheerio": "~0.13.0",
+    "lodash": "~2.4.0"
+  },
+  "devDependencies": {
+    "should": "~3.1.0"
+  }
+}
