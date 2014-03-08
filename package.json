@@ -1,16 +1,16 @@
 {
   "name": "kingo",
+  "description": "kingosoft sdk",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/xshweb/kingo.git"
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Qiu Xiang <xiang.qiu@qq.com>",
   "keywords": [
-    "kingo",
-    "proxy"
+    "kingo"
   ],
   "dependencies": {
     "urllib": "~0.5.0",
